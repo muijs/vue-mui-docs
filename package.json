@@ -1,0 +1,22 @@
+{
+  "name": "vue-mui-docs",
+  "version": "1.0.0",
+  "description": "documents for vue-mui",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lzcmaro@163.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muijs/vue-mui-docs.git"
+  },
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
